@@ -2,6 +2,5 @@
   "moduleName": "JSModule1",
   "moduleUUID": "35047ea7-b341-468e-a59b-0c0602d3cab9",
   "packageName": "Package with JS module",
-  "packageUUID": "d5a1b4a9-6b18-409b-ab64-62b1928306fd",
-  "version": "0.0.1"
+  "packageUUID": "d5a1b4a9-6b18-409b-ab64-62b1928306fd"
 }

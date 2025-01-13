@@ -7,9 +7,25 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "getMockUsers": "[]"
+      "foo": "[]",
+      "getMockUsers": "[]",
+      "getNow": "[]"
     },
     "moduleInputs": {
+      "anmbrzqpqf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "anmbrzqpqf",
+        "label": "foo",
+        "propertyName": "inputs.foo"
+      },
+      "cabnmyasjz": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "cabnmyasjz",
+        "label": "getNow",
+        "propertyName": "inputs.getNow"
+      },
       "qhgpdwgkfd": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
@@ -19,7 +35,6 @@
       }
     },
     "name": "JSModule11",
-    "pageId": "Page1",
-    "version": "0.0.1"
+    "pageId": "Page1"
   }
 }
